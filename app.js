@@ -33,8 +33,7 @@ function mostrarListaAmigo() {
   }
 }
 
-/**
- * Funcion para sortear y muestra un amigo de la lista de amigos de manera aleatoria.
+/*Funcion para sortear y muestra un amigo de la lista de amigos de manera aleatoria.
  * Verifica que la lista no esté vacía antes de realizar el sorteo.
  */
 function sortearAmigo() {
